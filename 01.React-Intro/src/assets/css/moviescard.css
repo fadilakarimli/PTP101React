@@ -1,0 +1,62 @@
+/* components/Movies.css */
+
+/* Grid layout */
+.movies-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+/* Card */
+.movie-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 12px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.movie-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* Image */
+.movie-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Title */
+.movie-card h3 {
+  font-size: 16px;
+  margin: 10px 0 5px;
+}
+
+/* Rating & year */
+.movie-card p {
+  margin: 4px 0;
+  font-size: 14px;
+}
+
+/* Top rated card */
+.top-rated {
+  border: 2px solid gold;
+}
+
+/* Badge */
+.badge {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 4px 10px;
+  background-color: gold;
+  color: #000;
+  font-size: 12px;
+  border-radius: 20px;
+  font-weight: bold;
+}
