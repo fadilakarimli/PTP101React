@@ -1,17 +1,12 @@
+import React from "react";
 
-function Header() {
+const Header = () => {
+  console.log("Header render olundu");
   return (
     <header>
-      <h1>Product Store</h1>
-      <nav>
-        <ul>
-          <li>Home</li>
-          <li>Products</li>
-          <li>Contact</li>
-        </ul>
-      </nav>
+      <h1>React Theme</h1>
     </header>
   );
-}
+};
 
 export default Header;
