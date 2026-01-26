@@ -12,9 +12,9 @@ const Navbar = () => {
     <nav className="bg-red-900 text-white shadow-md sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
-        <div className="text-2xl font-bold text-blue-400">
+        <Link to="/" className="text-2xl font-bold text-blue-400 hover:text-blue-300 transition-colors cursor-pointer">
           PTP101
-        </div>
+        </Link>
 
         {/* Links */}
         <div className="flex gap-6">
