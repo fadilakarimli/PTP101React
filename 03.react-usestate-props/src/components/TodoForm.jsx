@@ -12,7 +12,7 @@ const TodoForm = ({ setTodos }) => {
       return;
     }
 
-    // 🔴 ÇATIŞAN HİSSƏ BURADAYDI
+
     setTodos((prev) => [
       ...prev,
       {
