@@ -9,7 +9,7 @@ const ProductDetails = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:3000/products/${id}`)
+      .get(`https://products-api-eta-sage.vercel.app//${id}`)
       .then((res) => setProduct(res.data))
       .catch(() => setProduct(false));
   }, [id]);
