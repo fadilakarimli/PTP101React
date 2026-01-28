@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Nike Air Max",
+      "price": 180,
+      "image": "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+      "isDiscounted": true
+    },
+    {
+      "id": "2",
+      "name": "Adidas Superstar",
+      "price": 150,
+      "image": "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+      "isDiscounted": false
+    },
+    {
+      "id": "3",
+      "name": "Puma RS-X",
+      "price": 130,
+      "image": "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+      "isDiscounted": true
+    },
+    {
+      "id": "8965",
+      "name": "Karimli",
+      "price": 43,
+      "image": "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+      "isDiscounted": false
+    },
+    {
+      "id": "630a",
+      "name": "Fadila",
+      "price": 56,
+      "image": "https://www.istockphoto.com/stock-photos/nature-and-landscapes",
+      "isDiscounted": true
+    },
+    {
+      "id": "3db1",
+      "name": "salam",
+      "price": 543,
+      "image": "https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=",
+      "isDiscounted": false
+    }
+  ]
+}
