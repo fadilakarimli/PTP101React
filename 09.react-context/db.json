@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Fado",
+      "surname": "Karim",
+      "username": "fado123",
+      "email": "fado@mail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a453",
+      "name": "Fadila",
+      "surname": "Karimli",
+      "username": "fado2",
+      "email": "fadokarim15@gmail.com",
+      "password": "12345678"
+    }
+  ]
+}
