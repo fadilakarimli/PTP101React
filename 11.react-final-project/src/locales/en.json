@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Welcome",
+    "subtitle": "Modern application with multi-language support",
+    "card1Title": "Fast",
+    "card1Desc": "High performance and fast application",
+    "card2Title": "Modern",
+    "card2Desc": "Built with the latest technologies",
+    "card3Title": "Responsive",
+    "card3Desc": "Looks perfect on all devices"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Latest articles and news",
+    "readMore": "Read More",
+    "post1Title": "React Hooks",
+    "post1Excerpt": "Learn about React Hooks and how to use them effectively...",
+    "post2Title": "Modern CSS",
+    "post2Excerpt": "Explore modern CSS techniques for better styling...",
+    "post3Title": "JavaScript ES6+",
+    "post3Excerpt": "Discover new features in modern JavaScript...",
+    "post4Title": "Web Performance",
+    "post4Excerpt": "Tips and tricks for optimizing web performance..."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Who we are?",
+    "description": "We are a professional team specializing in creating modern web applications. We strive to provide the highest quality service to our clients and approach each project with love.",
+    "mission": "Our Mission",
+    "missionText": "Create user-friendly and innovative solutions",
+    "vision": "Our Vision",
+    "visionText": "To be a leader in the technology industry"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "submit": "Submit",
+    "success": "Your message has been sent successfully!",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email",
+    "phonePlaceholder": "Enter your phone number",
+    "messagePlaceholder": "Write your message"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

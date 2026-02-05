@@ -13,7 +13,7 @@ const Login = () => {
     e.preventDefault();
     try {
       await login(loginValue, password);
-      navigate("/"); // 🔥 HOME-A GÖNDƏRİR
+      navigate("/");
     } catch (err) {
       alert(err.message);
     }

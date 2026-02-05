@@ -23,7 +23,7 @@ const Register = () => {
     try {
       await register(form);
       alert("Register successful ✅");
-      navigate("/login"); // 🔥 BURDA LOGIN-A GÖNDƏRİR
+      navigate("/login"); 
     } catch (err) {
       alert(err.message);
     }

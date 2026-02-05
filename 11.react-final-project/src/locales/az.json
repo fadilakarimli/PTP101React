@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Ana Səhifə",
+    "blog": "Bloq",
+    "about": "Haqqımızda",
+    "contact": "Əlaqə"
+  },
+  "home": {
+    "title": "Xoş Gəlmisiniz",
+    "subtitle": "Multi-dil dəstəyi olan müasir tətbiq",
+    "card1Title": "Sürətli",
+    "card1Desc": "Yüksək performanslı və sürətli tətbiq",
+    "card2Title": "Müasir",
+    "card2Desc": "Ən son texnologiyalar ilə hazırlanıb",
+    "card3Title": "Responsiv",
+    "card3Desc": "Bütün cihazlarda mükəmməl görünür"
+  },
+  "blog": {
+    "title": "Bloq",
+    "subtitle": "Son məqalələr və yeniliklər",
+    "readMore": "Daha çox oxu",
+    "post1Title": "React Hooks",
+    "post1Excerpt": "React Hooks haqqında öyrənin və onları effektiv şəkildə istifadə edin...",
+    "post2Title": "Müasir CSS",
+    "post2Excerpt": "Daha yaxşı stilləşdirmə üçün müasir CSS texnikalarını kəşf edin...",
+    "post3Title": "JavaScript ES6+",
+    "post3Excerpt": "Müasir JavaScript-də yeni xüsusiyyətləri kəşf edin...",
+    "post4Title": "Veb Performansı",
+    "post4Excerpt": "Veb performansını optimallaşdırmaq üçün məsləhət və fəndlər..."
+  },
+  "about": {
+    "title": "Haqqımızda",
+    "subtitle": "Biz kimik?",
+    "description": "Biz müasir veb tətbiqləri yaratmaqda ixtisaslaşan peşəkar komandayıq. Müştərilərimizə ən keyfiyyətli xidmət göstərməyə çalışırıq və hər bir layihəyə sevgi ilə yanaşırıq.",
+    "mission": "Missiyamız",
+    "missionText": "İstifadəçi dostu və innovativ həllər yaratmaq",
+    "vision": "Vizyonumuz",
+    "visionText": "Texnologiya sənayesində lider olmaq"
+  },
+  "contact": {
+    "title": "Əlaqə",
+    "subtitle": "Bizimlə əlaqə saxlayın",
+    "name": "Ad Soyad",
+    "email": "Email",
+    "phone": "Telefon",
+    "message": "Mesaj",
+    "submit": "Göndər",
+    "success": "Mesajınız uğurla göndərildi!",
+    "namePlaceholder": "Adınızı daxil edin",
+    "emailPlaceholder": "Email ünvanınızı daxil edin",
+    "phonePlaceholder": "Telefon nömrənizi daxil edin",
+    "messagePlaceholder": "Mesajınızı yazın"
+  },
+  "footer": {
+    "rights": "Bütün hüquqlar qorunur"
+  }
+}
